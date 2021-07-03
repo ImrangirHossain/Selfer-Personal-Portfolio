@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"sess",
+				"session_destroy〔function〕"
+			],
+			[
+				"bg-s",
+				"bg-inverse \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"ses",
+				"session_destroy〔function〕"
+			],
+			[
+				"log",
+				"login.php"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows〔function〕"
+			],
+			[
+				"Log",
+				"logout.php"
+			],
+			[
+				"head",
+				"header〔function〕"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"from-",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"from",
+				"form-group \tBootstrap 4 Class"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"d",
+				"delete.php"
+			],
+			[
+				"table-s",
+				"table-striped \tBootstrap 4 Class"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"ta",
+				"table-danger \tBootstrap 4 Class"
+			],
+			[
+				"De",
+				"DETAILS\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"st",
+				"store.php"
+			],
+			[
+				"btn-",
+				"btn-info \tBootstrap 4 Class"
+			],
+			[
+				"i",
+				"index.php"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"my",
+				"mysqli_connect"
+			],
+			[
+				"mysqli_co",
+				"mysqli_connect〔function〕"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"S",
+				"sql"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"e",
+				"enctype\tAttr"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ar",
+				"array\t$… = array (…)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/test/Desktop/seo project/index 3.html",
+		"/C/Users/test/Desktop/seo project/style 3.css",
+		"/G/Moin Ahmed/index.php",
+		"/C/Users/test/Desktop/Style.css",
+		"/C/Users/test/Desktop/New folder/2031_green_age/index.html",
+		"/G/Video tutiral/Traning With Live Project/Sorce File/E-Commerce project live/shop/admin/inc/header.php",
+		"/G/Video tutiral/Traning With Live Project/Sorce File/E-Commerce project live/shop/admin/catadd.php",
+		"/C/Users/test/Desktop/INdex akash.html",
+		"/C/Users/test/Desktop/index (2).html",
+		"/C/Users/test/Desktop/Akash/elementor/elementor.php",
+		"/C/Users/test/Desktop/Akash/elementor.2.1.5/elementor/elementor.php",
+		"/G/Moin Ahmed/index.html",
+		"/C/xampp/phpMyAdmin/libraries/common.inc.php",
+		"/C/xampp/phpMyAdmin/index.php",
+		"/G/Meeting With Durdanto 10/index.html",
+		"/D/Picture Down/index.php",
+		"/C/Users/test/Desktop/teat",
+		"/C/xampp/htdocs/ridoy/index.php",
+		"/G/web desing and dev class/MY CLASS PROJECT AR/class 10 project/index1.php",
+		"/C/xampp/htdocs/folder/index.php",
+		"/C/xampp/htdocs/PHP_Project/Admin/index.php",
+		"/C/xampp/htdocs/Crud2/clogin.php",
+		"/C/xampp/htdocs/Crud2/login.php",
+		"/C/xampp/htdocs/Crud/logout.php",
+		"/C/xampp/htdocs/Crud/store.php",
+		"/C/xampp/htdocs/Crud/view.php",
+		"/C/xampp/htdocs/Crud/update.php",
+		"/C/xampp/htdocs/Crud/delete.php",
+		"/C/xampp/htdocs/Crud/index.php",
+		"/C/xampp/htdocs/Crud/edit.php",
+		"/C/xampp/htdocs/Crud/insert.php",
+		"/C/xampp/htdocs/Crud/login.php",
+		"/G/web desing and dev class/MY CLASS PROJECT AR/class 6 project/style.css",
+		"/C/xampp/htdocs/Practice/index.php",
+		"/C/xampp/htdocs/Practice/Crud/index.php",
+		"/G/web desing and dev class/MY CLASS PROJECT AR/class 7 project/index.html",
+		"/G/web desing and dev class/MY CLASS PROJECT AR/class 5 project/index.html",
+		"/C/xampp/htdocs/Practice/Project/index.php",
+		"/C/xampp/htdocs/Practice/Project/logout.php",
+		"/C/xampp/htdocs/Practice/Project/login.php",
+		"/C/xampp/htdocs/Practice/Project/style.css",
+		"/C/xampp/htdocs/Practice/Project/upload.php",
+		"/C/xampp/htdocs/Practice/Project/page2.php",
+		"/C/xampp/htdocs/Practice/Project/page.php",
+		"/C/Users/test/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/C/xampp/htdocs/Practice/Project/header.php",
+		"/C/xampp/htdocs/practice/Form/index.php",
+		"/C/xampp/htdocs/practice/Form/welcome.php",
+		"/C/xampp/htdocs/Simple_Calculator(PHP)2/index.php",
+		"/C/xampp/htdocs/Simple_Calculator(PHP)/index.php",
+		"/C/xampp/htdocs/Simple Calculator (PHP) - 2/cal.php",
+		"/C/xampp/htdocs/Project/index.php",
+		"/C/Users/test/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/Users/test/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Project/index1.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "selfer index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 119.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
